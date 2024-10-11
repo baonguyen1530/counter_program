@@ -1,0 +1,39 @@
+#counter {
+    font-size: 300px;
+    display: block;
+    text-align: center;
+}
+
+#buttonsContainer {
+    text-align: center;
+}
+
+#increase_btn {
+    width: 120px;
+    height: 40px;
+    font-size: 20px;
+    background-color: lightblue;
+    font-weight: bold;
+    font-style: italic;
+    cursor: pointer;
+    color: blue;
+}
+#decrease_btn {
+    width: 120px;
+    height: 40px;
+    font-size: 20px;
+    background-color: lightblue;
+    font-weight: bold;
+    font-style: italic;
+    cursor: pointer;
+    color: red;
+}
+#reset_btn {
+    width: 90px;
+    height: 40px;
+    font-size: 20px;
+    background-color: lightblue;
+    font-weight: bold;
+    font-style: italic;
+    cursor: pointer;
+}
